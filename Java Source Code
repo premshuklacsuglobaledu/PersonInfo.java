@@ -5,7 +5,7 @@ public class PersonInfo {
         String lastName = "Matrix";
         String streetAddress = "123 Green tree dr ";
         String city = "Santa";
-        String zipCode = "61614";
+        String zipCode = "55112";
 
         // Print each item on its own line
         System.out.println(firstName);
