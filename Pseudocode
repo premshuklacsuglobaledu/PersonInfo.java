@@ -1,0 +1,13 @@
+BEGIN
+   SET firstName = "John"
+   SET lastName = "Matrix"
+   SET streetAddress = "123 Green tree dr"
+   SET city = "Santa"
+   SET zipCode = "55112"
+
+   PRINT firstName
+   PRINT lastName
+   PRINT streetAddress
+   PRINT city
+   PRINT zipCode
+END
